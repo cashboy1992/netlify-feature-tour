@@ -1,4 +1,4 @@
-![Netlify examples](netlify-badge-examples.png)
+cashboy Trading![Netlify examples](netlify-badge-examples.png)
 
 # Netlify Feature Tour
 
